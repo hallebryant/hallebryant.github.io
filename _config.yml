@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : ""
 title_separator          : "-"
 name                     : &name "Halle Bryant"
@@ -23,8 +23,7 @@ author:
   # Biographic information
   avatar           : "hb_photo.jpeg"
   name             : "Halle Bryant"
-  pronouns         : "she/her"  
-  bio              : "Hello and welcome to my analytics portfolio! I am a data scientist, applied researcher and math communicator with a BA in Applied Mathematics from Brown University and MS in Data Science from University at Buffalo (SUNY)."
+  bio              : "Hello and welcome to my page! I am a data scientist, applied researcher and math communicator with a BA in Applied Mathematics from Brown University and MS in Data Science from University at Buffalo (SUNY). This site is where I post my explorations with new methods and tools. You can also find examples of my past research communications work."
   location         : "NY"
   email            : "hallebryant [at] gmail [dot] com" 
 
