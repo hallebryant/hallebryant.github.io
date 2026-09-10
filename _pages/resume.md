@@ -25,7 +25,7 @@ Work Experience
 
 * _Trust and Safety Analyst_, Discord (August 2021 - March 2022)
 
-*_Archival Intern_, Tomaquag Museum (May 2021 - August 2021)
+* _Archival Intern_, Tomaquag Museum (May 2021 - August 2021)
 
 * _Historical Researcher_, Brown University Center for the Study of Slavery and Justice (September 2019 - June 2021)
 
