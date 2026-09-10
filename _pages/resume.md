@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can access my full resume [here](https://academicpages.github.io/files/HalleBryant_resume_gh.pdf). 
+You can access my full resume [here](https://hallebryant.github.io/files/HalleBryant_resume_gh.pdf). 
 
 Education
 ======
