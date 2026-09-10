@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /resume/
 author_profile: true
 redirect_from:
@@ -9,56 +9,46 @@ redirect_from:
 
 {% include base_path %}
 
+You can access my full resume [here](https://academicpages.github.io/files/HalleBryant_resume_gh.pdf). 
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Data Science, University at Buffalo (SUNY), 2026
+  * Master's Capstone: "Logic for Open Databases and Open Ontologies" - Co-developed a mathematical proof system to describe open-world database logic. Worked on logical infrastructure for accomodating ontological growth and future-oriented queries.
+* B.A. in Applied Mathematics and Africana Studies, Brown University, 2021
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* _Communications Consultant_, NSF Institute for Computational and Experimental Research in Mathematics (March 2025 - August 2025)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* _Communications Specialist_, NSF Institute for Computational and Experimental Research in Mathematics (January 2023 - January 2025)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* _Trust and Safety Analyst_, Discord (August 2021 - March 2022)
+
+*_Archival Intern_, Tomaquag Museum (May 2021 - August 2021)
+
+* _Historical Researcher_, Brown University Center for the Study of Slavery and Justice (September 2019 - June 2021)
+
+* _Researcher_, Brown University Education Department (June 2019 - August 2020)
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming and Data Skills
+  * Python (pandas, NumPy, TensorFlow, PySpark)
+  * R (tidyverse)
+  * SQL 
+  * Tableau
+  * Git
+* Statisical learning techniques
+  * Regression (logistic, linear, GLMs)
+  * Time series analysis (ARIMA, Holt-Winters)
+  * Survival analysis
+  * Bayesian statistics/classification
+  * PCA/KPCA
+* Machine learning techniques
+  * Decision tress and random forests
+  * Support vector machines
+  * K-nearest neighbors
+  * Clustering (k-means/prototypes, hierarchical, DBSCAN) 
+  * Neural networks
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
