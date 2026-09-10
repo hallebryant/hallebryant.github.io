@@ -11,13 +11,13 @@ main:
   - title: "Resume"
     url: /resume/
 
-  - title: "Modeling & Analytics"
+  - title: "ML/Analytics"
     url: /analytics/
 
   - title: "Communications"
     url: /comms/    
 
-  - title: "Visualizations"
+  - title: "Data Visualizations"
     url: /viz/    
         
   - title: "Blog Posts"

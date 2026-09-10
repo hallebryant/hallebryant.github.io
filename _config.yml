@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Halle Bryant / Professional Portfolio"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Halle Bryant"
 description              : &description "Halle Bryant's professional portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://hallebryant.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : "https://hallebryant.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hallebryant/hallebryant.github.io"
@@ -21,10 +21,10 @@ repository               : "hallebryant/hallebryant.github.io"
 # Site Author - 
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "hb_photo.jpeg"
   name             : "Halle Bryant"
   pronouns         : "she/her"  
-  bio              : "Hello and welcome to my analytics portfolio! I am a data scientist, applied researcher and research communicator with a BA in Applied Mathematics from Brown University and MS in Data Science from University at Buffalo (SUNY). This site is where I post my explorations with new methods and tools. You can also find examples of past communications work on behalf of the Institute for Computational and Experimental Research in Mathematics."
+  bio              : "Hello and welcome to my analytics portfolio! I am a data scientist, applied researcher and math communicator with a BA in Applied Mathematics from Brown University and MS in Data Science from University at Buffalo (SUNY)."
   location         : "NY"
   email            : "hallebryant [at] gmail [dot] com" 
 
