@@ -17,6 +17,7 @@ url                      : "https://hallebryant.github.io" # The base hostname &
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hallebryant/hallebryant.github.io"
+remote_theme             : "academicpages/academicpages.github.io"
 
 # Site Author - 
 author:
@@ -243,11 +244,12 @@ timezone: Etc/UTC # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins
 plugins:
-  - jekyll-feed
-  - jekyll-gist
+  - jekyll-remote-theme
+  - jekyll-redirect-from
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-redirect-from
+  - jekyll-feed
+  - jekyll-gist
   - jemoji
 
 # Mimic GitHub Pages with --safe
