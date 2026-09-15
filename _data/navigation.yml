@@ -17,8 +17,5 @@ main:
   - title: "Communications"
     url: /comms/    
 
-  - title: "Data Visualizations"
-    url: /viz/    
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+  # - title: "Data Visualizations"
+  #   url: /viz/   
