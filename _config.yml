@@ -191,10 +191,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _analytics
+  # _modeling
   - scope:
       path: ""
-      type: analytics
+      type: modeling
     values:
       layout: single
       author_profile: true
