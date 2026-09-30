@@ -12,7 +12,7 @@ main:
     url: /resume/
 
   - title: "ML + Analytics"
-    url: /analytics/
+    url: /modeling/
 
   - title: "Communications"
     url: /comms/    
